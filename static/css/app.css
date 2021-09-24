@@ -1,0 +1,17 @@
+/* html {
+height: 100%
+};
+
+body {
+    background-image: linear-gradient(red, yellow);
+} */
+
+/* #grad1 {
+    height: 200px;
+    background-image: linear-gradient(red, yellow);
+} */
+
+input[type="submit"] {
+    width: 100px;
+    height: 100px;
+}
